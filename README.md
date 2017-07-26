@@ -46,4 +46,4 @@ This command will delete your entire Atom configuration directory. But don't wor
 apm install --packages-file atom-packages.txt
 ```
 
-After awhile, apm, Atom's package manager will pull down and install the newest versions of your atom packages. This soluton is one way to speed up you Atom experience, however you may also want to ask yourself why you have so many packages in the first place. While looking through your package list, ask youself "Are there plugins I no longer need or use?" If the answer is "no", then by all means delete them.
+After awhile, apm, Atom's package manager will pull down and install the newest versions of your Atom packages. This soluton is one way to speed up you Atom experience, however you may also want to ask yourself why you have so many packages in the first place. While looking through your package list, ask youself "Are there plugins I no longer need or use?" If the answer is "no", then by all means delete them.
