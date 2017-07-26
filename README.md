@@ -32,6 +32,12 @@ ls .atom/packages
 
 Copy the names of the plugins you wish to keep from the terminal output into your text file, and save the document.
 
+This step can be simplified by a simple command-line one liner.
+
+```bash
+ls .atom/packages > atom-packages.txt
+```
+
 Now for the nuke and pave.
 
 Close Atom if it is running and from the command-line, enter:
